@@ -1,0 +1,13 @@
+{
+  "name": "relatorio-diario-sdr",
+  "version": "1.0.0",
+  "description": "Relatório Diário SDR — Fazendo Acontecer (100% Client-Side)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13"
+  }
+}
